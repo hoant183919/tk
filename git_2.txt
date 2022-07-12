@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 HEAD
 hello
 git 2
 
+=======
+>>>>>>> f25358a (Revert "update develop branch")
